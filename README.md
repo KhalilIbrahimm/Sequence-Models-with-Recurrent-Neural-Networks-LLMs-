@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 3. Run the Jupyter notebook:
 ```bash
-jupyter notebook
+jupyter lab
 ```
 
 ## Results and Evaluation
