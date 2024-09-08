@@ -58,7 +58,7 @@ A simple attention mechanism was implemented to focus on the most relevant parts
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone KhalilIbrahimm/Sequence-Models-with-Recurrent-Neural-Networks-LLMs-.git
 ```
 
 2. Install the required dependencies:
