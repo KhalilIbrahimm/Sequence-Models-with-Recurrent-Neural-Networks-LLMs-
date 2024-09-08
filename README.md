@@ -1,19 +1,9 @@
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.8%2B-orange)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 This project involves building and training recurrent neural networks (RNNs) for various text sequence generation tasks. It was completed as part of the **INF265** course and focuses on exploring sequence data, RNNs, attention mechanisms, word embeddings, and text generation.
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Tasks Breakdown](#tasks-breakdown)
-    - [Word Embedding](#word-embedding)
-    - [Conjugating Be and Have](#conjugating-be-and-have)
-    - [Text Generation](#text-generation)
-3. [Models and Architectures](#models-and-architectures)
-    - [RNN](#rnn)
-    - [Attention Layer](#attention-layer)
-4. [Installation and Setup](#installation-and-setup)
-5. [Results and Evaluation](#results-and-evaluation)
-6. [Usage](#usage)
-7. [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
